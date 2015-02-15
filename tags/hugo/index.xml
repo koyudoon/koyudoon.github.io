@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on 小指をドーーンした記録</title>
+    <link>http://koyudoon.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on 小指をドーーンした記録</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <copyright>koyudoon</copyright>
+    <lastBuildDate>Sun, 15 Feb 2015 11:52:53 +0900</lastBuildDate>
+    <atom:link href="http://koyudoon.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>テスト投稿</title>
+      <link>http://koyudoon.github.io/blog/2015/02/15/%E3%83%86%E3%82%B9%E3%83%88%E6%8A%95%E7%A8%BF/</link>
+      <pubDate>Sun, 15 Feb 2015 11:52:53 +0900</pubDate>
+      
+      <guid>http://koyudoon.github.io/blog/2015/02/15/%E3%83%86%E3%82%B9%E3%83%88%E6%8A%95%E7%A8%BF/</guid>
+      <description>
+
+&lt;h2 id=&#34;概要:ccda4798025437b7a9f4f322f60324a2&#34;&gt;概要&lt;/h2&gt;
+
+&lt;p&gt;この記事は投稿テストです。&lt;/p&gt;
+
+&lt;h2 id=&#34;背景:ccda4798025437b7a9f4f322f60324a2&#34;&gt;背景&lt;/h2&gt;
+
+&lt;p&gt;Go 言語製の静的 Web サイトジェネレータ &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; によって生成されました。&lt;/p&gt;
+
+&lt;h2 id=&#34;見出し-lv-2:ccda4798025437b7a9f4f322f60324a2&#34;&gt;見出し lv.2&lt;/h2&gt;
+
+&lt;p&gt;ここ本文&lt;/p&gt;
+
+&lt;pre&gt;&lt;code class=&#34;language-console&#34;&gt;$ echo &#39;Hello, hugo!!&#39;
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;h3 id=&#34;見出し-lv-3:ccda4798025437b7a9f4f322f60324a2&#34;&gt;見出し lv.3&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;ここリスト&lt;/li&gt;
+&lt;li&gt;ここリスト
+
+&lt;ul&gt;
+&lt;li&gt;ここリスト
+
+&lt;ul&gt;
+&lt;li&gt;ここリスト&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;ここリスト&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;ここリスト&lt;/li&gt;
+&lt;li&gt;ここリスト&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&#34;見出し-lv-4:ccda4798025437b7a9f4f322f60324a2&#34;&gt;見出し lv.4&lt;/h4&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;ここ引用
+ここ引用&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://example.com/&#34;&gt;http://example.com/&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h5 id=&#34;見出し-lv-5:ccda4798025437b7a9f4f322f60324a2&#34;&gt;見出し lv.5&lt;/h5&gt;
+
+&lt;p&gt;画像の貼り付け&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://koyudoon.github.io/images/Hugo_w400.png&#34; alt=&#34;&#34; /&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
